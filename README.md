@@ -14,5 +14,5 @@ HTML5 – For structure
 CSS3 – For styling & layout
 
 🚀 Live Demo
-Check out the live version here: View Portfolio (https://mani-mc.github.io/simple-portfolio-website/)
+Check out the live version here: View Portfolio ()
 
